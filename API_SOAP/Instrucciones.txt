@@ -1,0 +1,3 @@
+Paso 1: Ejecutamos la API 
+Paso 2: Ponemos en la URL la siguente ruta: https://localhost:44300/Service.asmx
+Paso 3: Ver los que nos retorna la API SOAP
